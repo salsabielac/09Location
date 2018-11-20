@@ -30,7 +30,18 @@
         android:layout_below="@+id/textview_location"
         android:layout_centerInParent="true"
         android:text="TRACK YOUR LOCATION"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="5dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_location"
+        android:id="@+id/button_pilih_lokasi"
+        android:layout_centerInParent="true"
+        android:text="SET LOCATION"
+        android:layout_marginTop="5dp"
+
         />
 
 
